@@ -1,8 +1,8 @@
-# aresentertainment.uk
-The aresentertainment.uk website
+# AresEntertainment.UK
+The aresentertainment.uk website source code.
 
-# Credit
-Font Awesome
-Bootstap
-Material Design Bootstrap
-JQuery
+# Credits
+- Font Awesome
+- Bootstap
+- Material Design Bootstrap
+- JQuery
